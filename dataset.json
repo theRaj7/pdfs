@@ -1,0 +1,6 @@
+[
+    {"name": "Alice", "age": 24, "marks": 85},
+    {"name": "Bob", "age": 22, "marks": 92},
+    {"name": "Charlie", "age": 23, "marks": 78},
+    {"name": "David", "age": 21, "marks": 88}
+]
